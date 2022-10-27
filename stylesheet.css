@@ -1,0 +1,69 @@
+*{
+	font-family: Arial, Verdana, sans-serif;
+	color: midnightblue;
+	text-align: center;
+}
+body {
+	background-color: midnightblue;
+	width: 960px;
+	margin: 0 auto;
+}
+
+h1 {
+color: beige;
+}
+
+nav {
+	background-color: beige;
+	padding: 10px;
+	margin: 10px;
+}
+
+li {
+	display: inline;
+	padding: 5px;
+}
+
+
+
+section {
+	overflow: auto;
+	height: 100%;
+}
+
+main {
+	background-color: beige;
+	padding: 10px;
+	margin: 10px;
+}
+
+h2 {
+background-color: beige;
+	padding: 10px;
+	margin: 10px;
+
+}
+article {
+	background-color: beige;
+	padding: 10px;
+	margin: 10px;
+	width: 440px;
+	float: left;
+}
+
+dt {
+	text-align: left;
+	padding: 5px;
+}
+
+dd {
+	text-align: left;
+	;
+}
+
+
+footer {
+  background-color: beige;
+  padding: 10px;
+  margin: 10px;
+}
